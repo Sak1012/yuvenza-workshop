@@ -3,7 +3,7 @@ export default {
     theme: {
         extend: {
             fontFamily: {
-                primary: ["'Abril Fatface'", "cursiv"]
+                primary: ["'Oranienbaum'", "serif"]
             }
         }
     },
